@@ -1,0 +1,3350 @@
+﻿[
+  {
+    "sku": "120571",
+    "name": "Probiótico balance Within™ de Nutrilite™",
+    "slug": "probiotico-balance-within-de-nutrilite-120571",
+    "price": 43.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "125921",
+    "name": "Proteína vegetal en polvo Nutrilite™ Organics - Chocolate",
+    "slug": "proteina-vegetal-en-polvo-nutrilite-organics-chocolate-125921",
+    "price": 41.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "125923",
+    "name": "Proteína vegetal en polvo Nutrilite™ Organics - Vainilla",
+    "slug": "proteina-vegetal-en-polvo-nutrilite-organics-vainilla-125923",
+    "price": 41.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "125925",
+    "name": "Proteína vegetal en polvo Nutrilite™ Organics - Sin sabor",
+    "slug": "proteina-vegetal-en-polvo-nutrilite-organics-sin-sabor-125925",
+    "price": 41.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "127725",
+    "name": "Preparación intestinal diaria Nutrilite Begin™",
+    "slug": "preparacion-intestinal-diaria-nutrilite-begin-127725",
+    "price": 78.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "102736",
+    "name": "Fibra en polvo Nutrilite™",
+    "slug": "fibra-en-polvo-nutrilite-102736",
+    "price": 31.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "A8903",
+    "name": "Enzimas digestivas Nutrilite™",
+    "slug": "enzimas-digestivas-nutrilite-a8903",
+    "price": 39.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "308635",
+    "name": "Té de menta jengibre Nutrilite™ Organics",
+    "slug": "te-de-menta-jengibre-nutrilite-organics-308635",
+    "price": 17.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "A0244",
+    "name": "Multivitamina Double X™ de Nutrilite™ - Reemplazo de suministro para 31 días",
+    "slug": "multivitamina-double-x-de-nutrilite-reemplazo-de-suministro-para-31-dias-a0244",
+    "price": 64.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "123364",
+    "name": "Multivitamina Double X™ de Nutrilite™ - Suministro para 10 días",
+    "slug": "multivitamina-double-x-de-nutrilite-suministro-para-10-dias-123364",
+    "price": 24.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "125557",
+    "name": "Multivitamínico diario para hombres Nutrilite™ en tabletas",
+    "slug": "multivitaminico-diario-para-hombres-nutrilite-en-tabletas-125557",
+    "price": 34.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "125561",
+    "name": "Multigomitas diarias para hombres Nutrilite™ Organics",
+    "slug": "multigomitas-diarias-para-hombres-nutrilite-organics-125561",
+    "price": 36.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "125559",
+    "name": "Multivitamínico diario para mujeres Nutrilite™ en tabletas",
+    "slug": "multivitaminico-diario-para-mujeres-nutrilite-en-tabletas-125559",
+    "price": 34.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "125562",
+    "name": "Multigomitas diarias para mujeres Nutrilite™ Organics",
+    "slug": "multigomitas-diarias-para-mujeres-nutrilite-organics-125562",
+    "price": 36.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "123377",
+    "name": "Paquete perfecto Nutrilite™",
+    "slug": "paquete-perfecto-nutrilite-123377",
+    "price": 167.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "125936",
+    "name": "Superalimento para la inmunidad en polvo Nutrilite™ Organics",
+    "slug": "superalimento-para-la-inmunidad-en-polvo-nutrilite-organics-125936",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "125937",
+    "name": "Superalimento verde en polvo Nutrilite™ Organics",
+    "slug": "superalimento-verde-en-polvo-nutrilite-organics-125937",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "100648",
+    "name": "Concentrado de frutas y verduras Nutrilite™",
+    "slug": "concentrado-de-frutas-y-verduras-nutrilite-100648",
+    "price": 46.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "128154",
+    "name": "Proteína de suero XS™ alimentada con pasto - Chocolate",
+    "slug": "proteina-de-suero-xs-alimentada-con-pasto-chocolate-128154",
+    "price": 58.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "128155",
+    "name": "Proteína de suero XS™ alimentada con pasto - Fresa",
+    "slug": "proteina-de-suero-xs-alimentada-con-pasto-fresa-128155",
+    "price": 58.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "128156",
+    "name": "Proteína de suero XS™ alimentada con pasto - Vainilla",
+    "slug": "proteina-de-suero-xs-alimentada-con-pasto-vainilla-128156",
+    "price": 58.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126136",
+    "name": "Omega avanzado Nutrilite™",
+    "slug": "omega-avanzado-nutrilite-126136",
+    "price": 40.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126132",
+    "name": "Omega Nutrilite™",
+    "slug": "omega-nutrilite-126132",
+    "price": 24.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "128032",
+    "name": "Magnesio Nutrilite™",
+    "slug": "magnesio-nutrilite-128032",
+    "price": 34.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "318670",
+    "name": "Comida completa en polvo Nutrilite™ Organics - Chocolate",
+    "slug": "comida-completa-en-polvo-nutrilite-organics-chocolate-318670",
+    "price": 70.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "318671",
+    "name": "Comida completa en polvo Nutrilite™ Organics - Vainilla",
+    "slug": "comida-completa-en-polvo-nutrilite-organics-vainilla-318671",
+    "price": 70.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "318672",
+    "name": "Comida completa en polvo Nutrilite™ Organics - Moras",
+    "slug": "comida-completa-en-polvo-nutrilite-organics-moras-318672",
+    "price": 70.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "316302",
+    "name": "Barras todo en uno Nutrilite™ Organics - Peanut butter",
+    "slug": "barras-todo-en-uno-nutrilite-organics-peanut-butter-316302",
+    "price": 57.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "316303",
+    "name": "Barras todo en uno Nutrilite™ Organics - Chocolate doble",
+    "slug": "barras-todo-en-uno-nutrilite-organics-chocolate-doble-316303",
+    "price": 57.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "316305",
+    "name": "Barras todo en uno Nutrilite™ Organics - Moras y semillas",
+    "slug": "barras-todo-en-uno-nutrilite-organics-moras-y-semillas-316305",
+    "price": 57.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "318668",
+    "name": "Batidos todo en uno Nutrilite™ Organics - Chocolate",
+    "slug": "batidos-todo-en-uno-nutrilite-organics-chocolate-318668",
+    "price": 72.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "318669",
+    "name": "Batidos todo en uno Nutrilite™ Organics - Vainilla",
+    "slug": "batidos-todo-en-uno-nutrilite-organics-vainilla-318669",
+    "price": 72.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "A8992",
+    "name": "Salud del sueño Nutrilite™",
+    "slug": "salud-del-sueno-nutrilite-a8992",
+    "price": 29.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "124506",
+    "name": "Dulces Sueños n* by Nutrilite™ - Gomitas para dormir",
+    "slug": "dulces-suenos-n-by-nutrilite-gomitas-para-dormir-124506",
+    "price": 19.5,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "125514",
+    "name": "Probiótico para el estrés Nutrilite™",
+    "slug": "probiotico-para-el-estres-nutrilite-125514",
+    "price": 48.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "124505",
+    "name": "Menos Tensión, Más Acción n* by Nutrilite™ - Gomitas para relajación",
+    "slug": "menos-tension-mas-accion-n-by-nutrilite-gomitas-para-relajacion-124505",
+    "price": 19.5,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "308636",
+    "name": "Té de manzanilla Nutrilite™ Organics",
+    "slug": "te-de-manzanilla-nutrilite-organics-308636",
+    "price": 17.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "308641",
+    "name": "Cápsulas de ashwagandha Nutrilite™ Organics",
+    "slug": "capsulas-de-ashwagandha-nutrilite-organics-308641",
+    "price": 44.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "101593",
+    "name": "Suplemento nutricional Enfoque y energía - 60 tabletas",
+    "slug": "suplemento-nutricional-enfoque-y-energia-60-tabletas-101593",
+    "price": 41.0,
+    "currency": "USD",
+    "brandSlug": "other",
+    "categorySlug": "other"
+  },
+  {
+    "sku": "107846",
+    "name": "Suplemento nutricional Enfoque y energía - 30 tabletas",
+    "slug": "suplemento-nutricional-enfoque-y-energia-30-tabletas-107846",
+    "price": 29.5,
+    "currency": "USD",
+    "brandSlug": "other",
+    "categorySlug": "other"
+  },
+  {
+    "sku": "123842",
+    "name": "Paquete de Ultra enfoque y energía Nutrilite™",
+    "slug": "paquete-de-ultra-enfoque-y-energia-nutrilite-123842",
+    "price": 42.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "110171",
+    "name": "Vitamina B de acción doble Nutrilite™ - 120 tabletas",
+    "slug": "vitamina-b-de-accion-doble-nutrilite-120-tabletas-110171",
+    "price": 38.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "122971",
+    "name": "Vitamina B de acción doble Nutrilite™ - 30 tabletas",
+    "slug": "vitamina-b-de-accion-doble-nutrilite-30-tabletas-122971",
+    "price": 12.75,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "119346",
+    "name": "Vitamina D Nutrilite™",
+    "slug": "vitamina-d-nutrilite-119346",
+    "price": 29.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "124692",
+    "name": "Defensa inmunológica Nutrilite™ con zinc y albahaca sagrada - 60 tabletas",
+    "slug": "defensa-inmunologica-nutrilite-con-zinc-y-albahaca-sagrada-60-tabletas-124692",
+    "price": 17.75,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "A5986",
+    "name": "Equinácea para inmunidad Nutrilite™",
+    "slug": "equinacea-para-inmunidad-nutrilite-a5986",
+    "price": 39.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "124555",
+    "name": "Protégete n* by Nutrilite™ - Gomitas para la inmunidad",
+    "slug": "protegete-n-by-nutrilite-gomitas-para-la-inmunidad-124555",
+    "price": 22.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "109745",
+    "name": "Vitamina C de acción prolongada Nutrilite™",
+    "slug": "vitamina-c-de-accion-prolongada-nutrilite-109745",
+    "price": 20.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "109747",
+    "name": "Vitamina C de acción prolongada Nutrilite™",
+    "slug": "vitamina-c-de-accion-prolongada-nutrilite-109747",
+    "price": 54.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "102735",
+    "name": "ClearGuard™ de Nutrilite™",
+    "slug": "clearguard-de-nutrilite-102735",
+    "price": 27.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "123843",
+    "name": "Nutrilite™ Immunity Pack",
+    "slug": "nutrilite-immunity-pack-123843",
+    "price": 33.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "308642",
+    "name": "Cápsulas de cúrcuma Nutrilite™ Organics",
+    "slug": "capsulas-de-curcuma-nutrilite-organics-308642",
+    "price": 33.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "104664",
+    "name": "Salud de las Articulaciones Nutrilite™ - Suministro para 30 Días",
+    "slug": "salud-de-las-articulaciones-nutrilite-suministro-para-30-dias-104664",
+    "price": 36.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "106964",
+    "name": "Salud de las Articulaciones Nutrilite™ - Suministro para 60 Días",
+    "slug": "salud-de-las-articulaciones-nutrilite-suministro-para-60-dias-106964",
+    "price": 64.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "110610",
+    "name": "Cal Mag D Nutrilite™",
+    "slug": "cal-mag-d-nutrilite-110610",
+    "price": 43.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "123362",
+    "name": "Paquete de salud ósea Nutrilite™",
+    "slug": "paquete-de-salud-osea-nutrilite-123362",
+    "price": 103.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "111106",
+    "name": "Suplemento Memory Builder™ de Nutrilite™",
+    "slug": "suplemento-memory-builder-de-nutrilite-111106",
+    "price": 42.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "308639",
+    "name": "Nutrilite™ Organics Lions Mane Mushroom",
+    "slug": "nutrilite-organics-lions-mane-mushroom-308639",
+    "price": 34.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "124708",
+    "name": "Salud de la visión Nutrilite™",
+    "slug": "salud-de-la-vision-nutrilite-124708",
+    "price": 35.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "125544",
+    "name": "Mojo visión - gomitas para luz azul n* by Nutrilite™",
+    "slug": "mojo-vision-gomitas-para-luz-azul-n-by-nutrilite-125544",
+    "price": 22.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "123367",
+    "name": "Paquete para la salud del corazón Nutrilite™",
+    "slug": "paquete-para-la-salud-del-corazon-nutrilite-123367",
+    "price": 130.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "A5923",
+    "name": "Cuidado del corazón con ajo Nutrilite™",
+    "slug": "cuidado-del-corazon-con-ajo-nutrilite-a5923",
+    "price": 32.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "A8601",
+    "name": "Salud del corazón CoQ10 Nutrilite™",
+    "slug": "salud-del-corazon-coq10-nutrilite-a8601",
+    "price": 20.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "100070",
+    "name": "Salud del colesterol Nutrilite™",
+    "slug": "salud-del-colesterol-nutrilite-100070",
+    "price": 35.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "A8600",
+    "name": "Glucosa saludable Nutrilite™",
+    "slug": "glucosa-saludable-nutrilite-a8600",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "A4042",
+    "name": "Vitamina E masticable Nutrilite™",
+    "slug": "vitamina-e-masticable-nutrilite-a4042",
+    "price": 43.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "A8084",
+    "name": "Apoyo al hígado Nutrilite™",
+    "slug": "apoyo-al-higado-nutrilite-a8084",
+    "price": 35.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "A8004",
+    "name": "Salud de la próstata Nutrilite™",
+    "slug": "salud-de-la-prostata-nutrilite-a8004",
+    "price": 46.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "308640",
+    "name": "Epimedium (horny goat weed) y tribulus Nutrilite™",
+    "slug": "epimedium-horny-goat-weed-y-tribulus-nutrilite-308640",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "123365",
+    "name": "Paquete para hombres Nutrilite™",
+    "slug": "paquete-para-hombres-nutrilite-123365",
+    "price": 74.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "123372",
+    "name": "Paquete para mujeres Nutrilite™",
+    "slug": "paquete-para-mujeres-nutrilite-123372",
+    "price": 59.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126161",
+    "name": "Apoyo de ciclo Nutrilite™",
+    "slug": "apoyo-de-ciclo-nutrilite-126161",
+    "price": 38.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "102046",
+    "name": "Hierro fólico Nutrilite™",
+    "slug": "hierro-folico-nutrilite-102046",
+    "price": 17.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126154",
+    "name": "Apoyo completo para la menopausia Nutrilite™",
+    "slug": "apoyo-completo-para-la-menopausia-nutrilite-126154",
+    "price": 39.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "124936",
+    "name": "Shots de colágeno n* by Nutrilite™",
+    "slug": "shots-de-colageno-n-by-nutrilite-124936",
+    "price": 42.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "125553",
+    "name": "Péptidos de colágeno #sinfiltro n* by Nutrilite™",
+    "slug": "peptidos-de-colageno-sinfiltro-n-by-nutrilite-125553",
+    "price": 32.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "125545",
+    "name": "Gomitas de colágeno #sinfiltro n* by Nutrilite™",
+    "slug": "gomitas-de-colageno-sinfiltro-n-by-nutrilite-125545",
+    "price": 23.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "A7553",
+    "name": "Salud del cabello, piel y uñas Nutrilite™",
+    "slug": "salud-del-cabello-piel-y-unas-nutrilite-a7553",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "305554",
+    "name": "Brainiums DHA™ para niños Nutrilite™ jelly splat",
+    "slug": "brainiums-dha-para-ninos-nutrilite-jelly-splat-305554",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126185",
+    "name": "Gotas de inmunidad para niños Nutrilite™",
+    "slug": "gotas-de-inmunidad-para-ninos-nutrilite-126185",
+    "price": 24.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "123046",
+    "name": "Inmunidad total en polvo de fusión rápida para niños Nutrilite™",
+    "slug": "inmunidad-total-en-polvo-de-fusion-rapida-para-ninos-nutrilite-123046",
+    "price": 29.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "123043",
+    "name": "Multivitamínico masticable diario para niños Nutrilite™",
+    "slug": "multivitaminico-masticable-diario-para-ninos-nutrilite-123043",
+    "price": 19.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126187",
+    "name": "Superalimento completo en polvo para niños Nutrilite™ Organics - Chocolate",
+    "slug": "superalimento-completo-en-polvo-para-ninos-nutrilite-organics-chocolate-126187",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "127620",
+    "name": "Pre y postbiótico metabólico Nutrilite™",
+    "slug": "pre-y-postbiotico-metabolico-nutrilite-127620",
+    "price": 40.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "117085",
+    "name": "Suplemento nutricional Slimmetry™ de Nutrilite™",
+    "slug": "suplemento-nutricional-slimmetry-de-nutrilite-117085",
+    "price": 33.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "100193",
+    "name": "Bloqueador de carbohidratos Nutrilite™",
+    "slug": "bloqueador-de-carbohidratos-nutrilite-100193",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "100280",
+    "name": "Masa magra Nutrilite™",
+    "slug": "masa-magra-nutrilite-100280",
+    "price": 52.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "110857",
+    "name": "Tubitos 2GO™ de Nutrilite™ - Salud de las articulaciones - Frambuesa",
+    "slug": "tubitos-2go-de-nutrilite-salud-de-las-articulaciones-frambuesa-110857",
+    "price": 24.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "110538",
+    "name": "Tubitos 2GO™ de Nutrilite™ - Salud antioxidante - Mango cítrico",
+    "slug": "tubitos-2go-de-nutrilite-salud-antioxidante-mango-citrico-110538",
+    "price": 24.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "110855",
+    "name": "Tubitos 2GO™ Nutrilite™ - Salud inmunológica - Fresa y kiwi",
+    "slug": "tubitos-2go-nutrilite-salud-inmunologica-fresa-y-kiwi-110855",
+    "price": 24.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "110922",
+    "name": "Tubitos 2GO™ de Nutrilite™ - Paquete surtido",
+    "slug": "tubitos-2go-de-nutrilite-paquete-surtido-110922",
+    "price": 24.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "285375",
+    "name": "Perfect Empowered Drinking Water®",
+    "slug": "perfect-empowered-drinking-water-285375",
+    "price": 52.0,
+    "currency": "USD",
+    "brandSlug": "other",
+    "categorySlug": "other"
+  },
+  {
+    "sku": "111045",
+    "name": "Barras de bienestar Nutrilite™ - Chocolate oscuro con nueces",
+    "slug": "barras-de-bienestar-nutrilite-chocolate-oscuro-con-nueces-111045",
+    "price": 29.0,
+    "currency": "USD",
+    "brandSlug": "nutrilite",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126184",
+    "name": "Bebida de energía XS™ 12 oz - Cítrico",
+    "slug": "bebida-de-energia-xs-12-oz-citrico-126184",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126197",
+    "name": "Bebida de energía XS™ - Arándano-uva",
+    "slug": "bebida-de-energia-xs-arandano-uva-126197",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126198",
+    "name": "Bebida de energía XS™ 12 oz ‒ Tamarindo",
+    "slug": "bebida-de-energia-xs-12-oz-tamarindo-126198",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126199",
+    "name": "Bebida de energía XS™ 12 oz - Tropical",
+    "slug": "bebida-de-energia-xs-12-oz-tropical-126199",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126200",
+    "name": "Bebida de energía XS™ 12 oz - Mora silvestre",
+    "slug": "bebida-de-energia-xs-12-oz-mora-silvestre-126200",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126201",
+    "name": "Bebida de Energía XS™ 12 oz - Cola y cereza negra",
+    "slug": "bebida-de-energia-xs-12-oz-cola-y-cereza-negra-126201",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126202",
+    "name": "Bebida de energía XS™ 12 oz - Root Beer",
+    "slug": "bebida-de-energia-xs-12-oz-root-beer-126202",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126883",
+    "name": "Bebida de energía XS™ 12 oz - Clásico",
+    "slug": "bebida-de-energia-xs-12-oz-clasico-126883",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126981",
+    "name": "Bebida de energía XS™ 12 oz - Naranja",
+    "slug": "bebida-de-energia-xs-12-oz-naranja-126981",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126982",
+    "name": "Bebida de Energía XS™ 12 oz - Summit",
+    "slug": "bebida-de-energia-xs-12-oz-summit-126982",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126998",
+    "name": "Bebida de energía XS™ 12 oz - Limonada de sandía",
+    "slug": "bebida-de-energia-xs-12-oz-limonada-de-sandia-126998",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "127070",
+    "name": "Bebida de energía XS™ 12 oz - Caja surtida",
+    "slug": "bebida-de-energia-xs-12-oz-caja-surtida-127070",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126984",
+    "name": "Jugo de energía 12 oz XS™ burbujeante - Mango, piña y guayaba sin cafeína",
+    "slug": "jugo-de-energia-12-oz-xs-burbujeante-mango-pina-y-guayaba-sin-cafeina-126984",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126985",
+    "name": "Jugo de energía XS™ burbujeante 12 oz - Fruta del dragón",
+    "slug": "jugo-de-energia-xs-burbujeante-12-oz-fruta-del-dragon-126985",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126986",
+    "name": "Jugo de energía XS™ burbujeante 12 oz - Mango, piña y guayaba",
+    "slug": "jugo-de-energia-xs-burbujeante-12-oz-mango-pina-y-guayaba-126986",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126987",
+    "name": "Jugo de energía XS™ burbujeante - Toronja rosada",
+    "slug": "jugo-de-energia-xs-burbujeante-toronja-rosada-126987",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "127935",
+    "name": "XS™ Energy + Burn 12 oz - Frambuesa azul",
+    "slug": "xs-energy-burn-12-oz-frambuesa-azul-127935",
+    "price": 42.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "127936",
+    "name": "XS™ Energy + Burn 12 oz - Kiwi y fresa",
+    "slug": "xs-energy-burn-12-oz-kiwi-y-fresa-127936",
+    "price": 42.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "127071",
+    "name": "Juiced and Burn XS™ 12 oz - Caja surtida",
+    "slug": "juiced-and-burn-xs-12-oz-caja-surtida-127071",
+    "price": 39.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "316375",
+    "name": "Pre-entrenamiento XS™ - Frambuesa azul (sobre de 30 porciones)",
+    "slug": "pre-entrenamiento-xs-frambuesa-azul-sobre-de-30-porciones-316375",
+    "price": 55.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "316377",
+    "name": "Pre-entrenamiento XS™ - Frambuesa azul (12 sobres)",
+    "slug": "pre-entrenamiento-xs-frambuesa-azul-12-sobres-316377",
+    "price": 33.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "316376",
+    "name": "Pre-entrenamiento XS™ - Manzana verde (sobre con 30 porciones)",
+    "slug": "pre-entrenamiento-xs-manzana-verde-sobre-con-30-porciones-316376",
+    "price": 55.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "316378",
+    "name": "Pre-entrenamiento XS™ - Manzana verde (12 sobres)",
+    "slug": "pre-entrenamiento-xs-manzana-verde-12-sobres-316378",
+    "price": 33.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126756",
+    "name": "XS™ Muscle Multiplier - Sobres de sandía",
+    "slug": "xs-muscle-multiplier-sobres-de-sandia-126756",
+    "price": 34.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126754",
+    "name": "XS™ Muscle Multiplier - Sandía",
+    "slug": "xs-muscle-multiplier-sandia-126754",
+    "price": 50.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126755",
+    "name": "XS™ Muscle Multiplier - Sobres de explosión de mora",
+    "slug": "xs-muscle-multiplier-sobres-de-explosion-de-mora-126755",
+    "price": 34.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "126753",
+    "name": "XS™ Muscle Multiplier- Explosión de mora",
+    "slug": "xs-muscle-multiplier-explosion-de-mora-126753",
+    "price": 50.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "110369",
+    "name": "Batidos de proteína para deportes XS™ - Chocolate intenso",
+    "slug": "batidos-de-proteina-para-deportes-xs-chocolate-intenso-110369",
+    "price": 53.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "110370",
+    "name": "Batidos de proteína para deportes XS™ - Crema de vainilla",
+    "slug": "batidos-de-proteina-para-deportes-xs-crema-de-vainilla-110370",
+    "price": 53.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "308600",
+    "name": "Barras de proteína para deportes XS™ - Pastel de cumpleaños",
+    "slug": "barras-de-proteina-para-deportes-xs-pastel-de-cumpleanos-308600",
+    "price": 42.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "110385",
+    "name": "Barras de proteína para deportes XS™ - Chocolate y Peanut Butter",
+    "slug": "barras-de-proteina-para-deportes-xs-chocolate-y-peanut-butter-110385",
+    "price": 42.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "110386",
+    "name": "Barras de proteína para deportes XS™ - Chocolate y mora",
+    "slug": "barras-de-proteina-para-deportes-xs-chocolate-y-mora-110386",
+    "price": 42.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "110627",
+    "name": "Hojuelas de proteína XS™ - Barbacoa",
+    "slug": "hojuelas-de-proteina-xs-barbacoa-110627",
+    "price": 39.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "110628",
+    "name": "Hojuelas de proteína XS™ - Lima Sriracha",
+    "slug": "hojuelas-de-proteina-xs-lima-sriracha-110628",
+    "price": 39.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "127811",
+    "name": "Impulso en polvo XS™ - Naranja sanguina Moro",
+    "slug": "impulso-en-polvo-xs-naranja-sanguina-moro-127811",
+    "price": 44.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "305555",
+    "name": "Tubitos deportivos XS™ - Limonada de frambuesa",
+    "slug": "tubitos-deportivos-xs-limonada-de-frambuesa-305555",
+    "price": 23.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "110390",
+    "name": "Tubitos deportivos XS™ - Ponche de frutas",
+    "slug": "tubitos-deportivos-xs-ponche-de-frutas-110390",
+    "price": 23.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "110601",
+    "name": "Mezcla de bebida hidratante de Agua de coco XS™ - Fresa y sandía",
+    "slug": "mezcla-de-bebida-hidratante-de-agua-de-coco-xs-fresa-y-sandia-110601",
+    "price": 28.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "110631",
+    "name": "Mezcla de bebida hidratante de Agua de coco XS™- Piña y coco",
+    "slug": "mezcla-de-bebida-hidratante-de-agua-de-coco-xs-pina-y-coco-110631",
+    "price": 28.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "316379",
+    "name": "Recuperación pos-entrenamiento XS™ - Ponche de frutas (sobre de 30 porciones)",
+    "slug": "recuperacion-pos-entrenamiento-xs-ponche-de-frutas-sobre-de-30-porciones-316379",
+    "price": 55.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "316380",
+    "name": "Recuperación pos-entrenamiento XS™ - Ponche de frutas (12 sobres)",
+    "slug": "recuperacion-pos-entrenamiento-xs-ponche-de-frutas-12-sobres-316380",
+    "price": 33.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "296753",
+    "name": "Crema de CBD XS™",
+    "slug": "crema-de-cbd-xs-296753",
+    "price": 61.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "300323",
+    "name": "Crema Pro de CBD XS™",
+    "slug": "crema-pro-de-cbd-xs-300323",
+    "price": 71.0,
+    "currency": "USD",
+    "brandSlug": "xs",
+    "categorySlug": "nutrition"
+  },
+  {
+    "sku": "128208",
+    "name": "Solución inicial de fitness - Vainilla",
+    "slug": "solucion-inicial-de-fitness-vainilla-128208",
+    "price": 174.0,
+    "currency": "USD",
+    "brandSlug": "other",
+    "categorySlug": "other"
+  },
+  {
+    "sku": "128209",
+    "name": "Solución inicial de fitness - Chocolate",
+    "slug": "solucion-inicial-de-fitness-chocolate-128209",
+    "price": 174.0,
+    "currency": "USD",
+    "brandSlug": "other",
+    "categorySlug": "other"
+  },
+  {
+    "sku": "128210",
+    "name": "Solución inicial de fitness - Fresa",
+    "slug": "solucion-inicial-de-fitness-fresa-128210",
+    "price": 174.0,
+    "currency": "USD",
+    "brandSlug": "other",
+    "categorySlug": "other"
+  },
+  {
+    "sku": "123792V",
+    "name": "Limpiador equilibrador en gel Artistry Skin Nutrition™",
+    "slug": "limpiador-equilibrador-en-gel-artistry-skin-nutrition-123792v",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "123794V",
+    "name": "Mezcla tónica equilibrio fresco Artistry Skin Nutrition™",
+    "slug": "mezcla-tonica-equilibrio-fresco-artistry-skin-nutrition-123794v",
+    "price": 22.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "beauty"
+  },
+  {
+    "sku": "123797V",
+    "name": "Loción de gel equilibrio mate Artistry Skin Nutrition™",
+    "slug": "locion-de-gel-equilibrio-mate-artistry-skin-nutrition-123797v",
+    "price": 41.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "123799",
+    "name": "Loción de día SPF 30 equilibrio mate Artistry Skin Nutrition™",
+    "slug": "locion-de-dia-spf-30-equilibrio-mate-artistry-skin-nutrition-123799",
+    "price": 41.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "123793V",
+    "name": "Espuma limpiadora hidratante Artistry Skin Nutrition™",
+    "slug": "espuma-limpiadora-hidratante-artistry-skin-nutrition-123793v",
+    "price": 31.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "123795V",
+    "name": "Tónico de hidratación suavizante Artistry Skin Nutrition™",
+    "slug": "tonico-de-hidratacion-suavizante-artistry-skin-nutrition-123795v",
+    "price": 24.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "123798V",
+    "name": "Crema hidratante en gel Artistry Skin Nutrition™",
+    "slug": "crema-hidratante-en-gel-artistry-skin-nutrition-123798v",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "123800",
+    "name": "Loción hidratante de día SPF 30 Artistry Skin Nutrition™",
+    "slug": "locion-hidratante-de-dia-spf-30-artistry-skin-nutrition-123800",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "123796V",
+    "name": "Crema hidratante en gel para ojos Artistry Skin Nutrition™",
+    "slug": "crema-hidratante-en-gel-para-ojos-artistry-skin-nutrition-123796v",
+    "price": 40.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "123781V",
+    "name": "Limpiador de espuma renovadora Artistry Skin Nutrition™",
+    "slug": "limpiador-de-espuma-renovadora-artistry-skin-nutrition-123781v",
+    "price": 32.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "123783V",
+    "name": "Tónico renovador suavizante Artistry Skin Nutrition™",
+    "slug": "tonico-renovador-suavizante-artistry-skin-nutrition-123783v",
+    "price": 38.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "123785V",
+    "name": "Crema de reactivación renovadora Artistry Skin Nutrition™",
+    "slug": "crema-de-reactivacion-renovadora-artistry-skin-nutrition-123785v",
+    "price": 74.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "123857",
+    "name": "Loción de día SPF 30 de reactivación renovadora Artistry Skin Nutrition™",
+    "slug": "locion-de-dia-spf-30-de-reactivacion-renovadora-artistry-skin-nutrition-123857",
+    "price": 74.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "123787",
+    "name": "Crema de día SPF 30 de reactivación renovadora Artistry Skin Nutrition™",
+    "slug": "crema-de-dia-spf-30-de-reactivacion-renovadora-artistry-skin-nutrition-123787",
+    "price": 74.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "123784V",
+    "name": "Crema de reactivación renovadora para ojos Artistry Skin Nutrition™",
+    "slug": "crema-de-reactivacion-renovadora-para-ojos-artistry-skin-nutrition-123784v",
+    "price": 55.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "123786V",
+    "name": "Crema de levantamiento reafirmante ultra Artistry Skin Nutrition™",
+    "slug": "crema-de-levantamiento-reafirmante-ultra-artistry-skin-nutrition-123786v",
+    "price": 78.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "124823",
+    "name": "Protector UV multidefensa SPF 50+ de amplio espectro Artistry Skin Nutrition™",
+    "slug": "protector-uv-multidefensa-spf-50-de-amplio-espectro-artistry-skin-nutrition-124823",
+    "price": 59.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "125575",
+    "name": "Mascarilla para dormir Artistry Skin Nutrition™",
+    "slug": "mascarilla-para-dormir-artistry-skin-nutrition-125575",
+    "price": 58.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "125517V",
+    "name": "Suero diario de vitamina C + AH3 Artistry Skin Nutrition™",
+    "slug": "suero-diario-de-vitamina-c-ah3-artistry-skin-nutrition-125517v",
+    "price": 58.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "127019V",
+    "name": "Suero desafiante Artistry Skin Nutrition™",
+    "slug": "suero-desafiante-artistry-skin-nutrition-127019v",
+    "price": 85.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "127020V",
+    "name": "Suero corrector Artistry Skin Nutrition™",
+    "slug": "suero-corrector-artistry-skin-nutrition-127020v",
+    "price": 100.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "122339V",
+    "name": "Mascarilla pulidora Artistry Signature Select™",
+    "slug": "mascarilla-pulidora-artistry-signature-select-122339v",
+    "price": 39.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "122340V",
+    "name": "Mascarilla iluminadora Artistry Signature Select™",
+    "slug": "mascarilla-iluminadora-artistry-signature-select-122340v",
+    "price": 47.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "122341V",
+    "name": "Mascarilla reafirmante Artistry Signature Select™",
+    "slug": "mascarilla-reafirmante-artistry-signature-select-122341v",
+    "price": 49.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "122342V",
+    "name": "Mascarilla purificadora Artistry Signature Select™",
+    "slug": "mascarilla-purificadora-artistry-signature-select-122342v",
+    "price": 39.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "122343V",
+    "name": "Mascarilla hidratante Artistry Signature Select™",
+    "slug": "mascarilla-hidratante-artistry-signature-select-122343v",
+    "price": 42.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "321550",
+    "name": "Solución diaria para la piel",
+    "slug": "solucion-diaria-para-la-piel-321550",
+    "price": 169.0,
+    "currency": "USD",
+    "brandSlug": "other",
+    "categorySlug": "other"
+  },
+  {
+    "sku": "126219",
+    "name": "Sistema iluminador de Artistry Labs™",
+    "slug": "sistema-iluminador-de-artistry-labs-126219",
+    "price": 195.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "beauty"
+  },
+  {
+    "sku": "126807V",
+    "name": "Sistema retexturizador de Artistry Labs™",
+    "slug": "sistema-retexturizador-de-artistry-labs-126807v",
+    "price": 372.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "beauty"
+  },
+  {
+    "sku": "125547V",
+    "name": "Recarga del Sistema retexturizador de Artistry Labs™",
+    "slug": "recarga-del-sistema-retexturizador-de-artistry-labs-125547v",
+    "price": 197.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "beauty"
+  },
+  {
+    "sku": "128178",
+    "name": "Suero retexturizador de Artistry Labs™",
+    "slug": "suero-retexturizador-de-artistry-labs-128178",
+    "price": 110.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "109709",
+    "name": "Suero reafirmante antiarrugas Artistry™ Intensive Skincare",
+    "slug": "suero-reafirmante-antiarrugas-artistry-intensive-skincare-109709",
+    "price": 94.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "123776V",
+    "name": "Programa de restauración de 14 noches Artistry™ Intensive Skincare",
+    "slug": "programa-de-restauracion-de-14-noches-artistry-intensive-skincare-123776v",
+    "price": 210.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "beauty"
+  },
+  {
+    "sku": "118184V",
+    "name": "Crema regeneradora Artistry Supreme LX™",
+    "slug": "crema-regeneradora-artistry-supreme-lx-118184v",
+    "price": 355.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "118185V",
+    "name": "Crema regeneradora para ojos Artistry Supreme LX™",
+    "slug": "crema-regeneradora-para-ojos-artistry-supreme-lx-118185v",
+    "price": 195.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "111225V",
+    "name": "Limpiador facial suave Artistry™ Men",
+    "slug": "limpiador-facial-suave-artistry-men-111225v",
+    "price": 30.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "111227V",
+    "name": "Tónico para después de afeitar Artistry™ Men",
+    "slug": "tonico-para-despues-de-afeitar-artistry-men-111227v",
+    "price": 39.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "111228V",
+    "name": "Hidratante facial Artistry™ Men",
+    "slug": "hidratante-facial-artistry-men-111228v",
+    "price": 50.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "124811",
+    "name": "Radiante Start - Toallitas limpiadoras y desmaquilladoras micelar Artistry Studio™",
+    "slug": "radiante-start-toallitas-limpiadoras-y-desmaquilladoras-micelar-artistry-studio-124811",
+    "price": 10.0,
+    "currency": "USD",
+    "brandSlug": "artistry-studio",
+    "categorySlug": "makeup"
+  },
+  {
+    "sku": "124812",
+    "name": "Illuminance Artistry Studio™ Limpiador + Exfoliante",
+    "slug": "illuminance-artistry-studio-limpiador-exfoliante-124812",
+    "price": 19.75,
+    "currency": "USD",
+    "brandSlug": "artistry-studio",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "125966",
+    "name": "Toque esencial de hidratación Artistry Studio™",
+    "slug": "toque-esencial-de-hidratacion-artistry-studio-125966",
+    "price": 28.0,
+    "currency": "USD",
+    "brandSlug": "artistry-studio",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "124816",
+    "name": "¡Al punto! Artistry Studio™",
+    "slug": "al-punto-artistry-studio-124816",
+    "price": 27.0,
+    "currency": "USD",
+    "brandSlug": "artistry-studio",
+    "categorySlug": "beauty"
+  },
+  {
+    "sku": "124819",
+    "name": "Estilo Muack! Bálsamo de día y mascarilla nocturna para los labios Artistry Studio™",
+    "slug": "estilo-muack-balsamo-de-dia-y-mascarilla-nocturna-para-los-labios-artistry-studio-124819",
+    "price": 20.0,
+    "currency": "USD",
+    "brandSlug": "artistry-studio",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "125964",
+    "name": "Ojos energizados Artistry Studio™ iluminador y suero refrescante",
+    "slug": "ojos-energizados-artistry-studio-iluminador-y-suero-refrescante-125964",
+    "price": 27.0,
+    "currency": "USD",
+    "brandSlug": "artistry-studio",
+    "categorySlug": "skincare"
+  },
+  {
+    "sku": "124818",
+    "name": "Ojos Zen - Iluminante y revitalizante Artistry Studio™",
+    "slug": "ojos-zen-iluminante-y-revitalizante-artistry-studio-124818",
+    "price": 35.0,
+    "currency": "USD",
+    "brandSlug": "artistry-studio",
+    "categorySlug": "beauty"
+  },
+  {
+    "sku": "127831",
+    "name": "Prebase suavizante Artistry™ Ever Perfect™",
+    "slug": "prebase-suavizante-artistry-ever-perfect-127831",
+    "price": 38.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127449",
+    "name": "Base de larga duración Artistry Ever Perfect™ - Shell 101",
+    "slug": "base-de-larga-duracion-artistry-ever-perfect-shell-101-127449",
+    "price": 43.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127450",
+    "name": "Base de larga duración Artistry Ever Perfect™ - Cashmere 102",
+    "slug": "base-de-larga-duracion-artistry-ever-perfect-cashmere-102-127450",
+    "price": 43.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127451",
+    "name": "Base de larga duración Artistry Ever Perfect™ - Ivory 103",
+    "slug": "base-de-larga-duracion-artistry-ever-perfect-ivory-103-127451",
+    "price": 43.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127452",
+    "name": "Base de larga duración Artistry Ever Perfect™ - Fawn 104",
+    "slug": "base-de-larga-duracion-artistry-ever-perfect-fawn-104-127452",
+    "price": 43.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127453",
+    "name": "Base de larga duración Artistry Ever Perfect™ - Beige 201",
+    "slug": "base-de-larga-duracion-artistry-ever-perfect-beige-201-127453",
+    "price": 43.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127454",
+    "name": "Base de larga duración Artistry Ever Perfect™ - Bamboo 202",
+    "slug": "base-de-larga-duracion-artistry-ever-perfect-bamboo-202-127454",
+    "price": 43.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127455",
+    "name": "Base de larga duración Artistry Ever Perfect™ - Honey 203",
+    "slug": "base-de-larga-duracion-artistry-ever-perfect-honey-203-127455",
+    "price": 43.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127456",
+    "name": "Base de larga duración Artistry Ever Perfect™ - Oat 204",
+    "slug": "base-de-larga-duracion-artistry-ever-perfect-oat-204-127456",
+    "price": 43.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127457",
+    "name": "Base de larga duración Artistry Ever Perfect™ - Biscotti 301",
+    "slug": "base-de-larga-duracion-artistry-ever-perfect-biscotti-301-127457",
+    "price": 43.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127458",
+    "name": "Base de larga duración Artistry Ever Perfect™ - Almond 302",
+    "slug": "base-de-larga-duracion-artistry-ever-perfect-almond-302-127458",
+    "price": 43.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127459",
+    "name": "Base de larga duración Artistry Ever Perfect™ - Chestnut 303",
+    "slug": "base-de-larga-duracion-artistry-ever-perfect-chestnut-303-127459",
+    "price": 43.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127460",
+    "name": "Base de larga duración Artistry Ever Perfect™ - Amber 304",
+    "slug": "base-de-larga-duracion-artistry-ever-perfect-amber-304-127460",
+    "price": 43.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127461",
+    "name": "Base de larga duración Artistry Ever Perfect™ - Cocoa 305",
+    "slug": "base-de-larga-duracion-artistry-ever-perfect-cocoa-305-127461",
+    "price": 43.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127462",
+    "name": "Base de larga duración Artistry Ever Perfect™ - Mocha 401",
+    "slug": "base-de-larga-duracion-artistry-ever-perfect-mocha-401-127462",
+    "price": 43.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127463",
+    "name": "Base de larga duración Artistry Ever Perfect™ - Nutmeg 402",
+    "slug": "base-de-larga-duracion-artistry-ever-perfect-nutmeg-402-127463",
+    "price": 43.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127464",
+    "name": "Base de larga duración Artistry Ever Perfect™ - Java 403",
+    "slug": "base-de-larga-duracion-artistry-ever-perfect-java-403-127464",
+    "price": 43.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127465",
+    "name": "Base de larga duración Artistry Ever Perfect™ - Espresso 404",
+    "slug": "base-de-larga-duracion-artistry-ever-perfect-espresso-404-127465",
+    "price": 43.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "126718",
+    "name": "Base de sérum Artistry Future Glow™ - Shell 101",
+    "slug": "base-de-serum-artistry-future-glow-shell-101-126718",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "126719",
+    "name": "Base de sérum Artistry Future Glow™ - Cashmere 102",
+    "slug": "base-de-serum-artistry-future-glow-cashmere-102-126719",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "126720",
+    "name": "Base de sérum Artistry Future Glow™ - Ivory 103",
+    "slug": "base-de-serum-artistry-future-glow-ivory-103-126720",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "126721",
+    "name": "Base de sérum Artistry Future Glow™ - Fawn 104",
+    "slug": "base-de-serum-artistry-future-glow-fawn-104-126721",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "126722",
+    "name": "Base de sérum Artistry Future Glow™ - Beige 201",
+    "slug": "base-de-serum-artistry-future-glow-beige-201-126722",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "126723",
+    "name": "Base de sérum Artistry Future Glow™ - Bamboo 202",
+    "slug": "base-de-serum-artistry-future-glow-bamboo-202-126723",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "126724",
+    "name": "Base de sérum Artistry Future Glow™ - Honey 203",
+    "slug": "base-de-serum-artistry-future-glow-honey-203-126724",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "126725",
+    "name": "Base de sérum Artistry Future Glow™ - Oat 204",
+    "slug": "base-de-serum-artistry-future-glow-oat-204-126725",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "126726",
+    "name": "Base de sérum Artistry Future Glow™ - Biscotti 301",
+    "slug": "base-de-serum-artistry-future-glow-biscotti-301-126726",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "126727",
+    "name": "Base de sérum Artistry Future Glow™ - Almond 302",
+    "slug": "base-de-serum-artistry-future-glow-almond-302-126727",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "126728",
+    "name": "Base de sérum Artistry Future Glow™ - Chestnut 303",
+    "slug": "base-de-serum-artistry-future-glow-chestnut-303-126728",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "126729",
+    "name": "Base de sérum Artistry Future Glow™ - Amber 304",
+    "slug": "base-de-serum-artistry-future-glow-amber-304-126729",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "126730",
+    "name": "Base de sérum Artistry Future Glow™ - Cocoa 305",
+    "slug": "base-de-serum-artistry-future-glow-cocoa-305-126730",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "126731",
+    "name": "Base de sérum Artistry Future Glow™ - Mocha 401",
+    "slug": "base-de-serum-artistry-future-glow-mocha-401-126731",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "126732",
+    "name": "Base de sérum Artistry Future Glow™ - Nutmeg 402",
+    "slug": "base-de-serum-artistry-future-glow-nutmeg-402-126732",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "126733",
+    "name": "Base de sérum Artistry Future Glow™ - Java 403",
+    "slug": "base-de-serum-artistry-future-glow-java-403-126733",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "126734",
+    "name": "Base de sérum Artistry Future Glow™ - Espresso 404",
+    "slug": "base-de-serum-artistry-future-glow-espresso-404-126734",
+    "price": 45.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127844",
+    "name": "Compacta Base en polvo Artistry™ Ever Perfect™",
+    "slug": "compacta-base-en-polvo-artistry-ever-perfect-127844",
+    "price": 18.5,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127832",
+    "name": "Base en polvo Artistry™ Ever Perfect™ - Shell 101",
+    "slug": "base-en-polvo-artistry-ever-perfect-shell-101-127832",
+    "price": 27.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127833",
+    "name": "Base en polvo Artistry™ Ever Perfect™ - Cashmere 102",
+    "slug": "base-en-polvo-artistry-ever-perfect-cashmere-102-127833",
+    "price": 27.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127834",
+    "name": "Base en polvo Artistry™ Ever Perfect™ - Ivory 103",
+    "slug": "base-en-polvo-artistry-ever-perfect-ivory-103-127834",
+    "price": 27.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127835",
+    "name": "Base en polvo Artistry™ Ever Perfect™ - Beige 201",
+    "slug": "base-en-polvo-artistry-ever-perfect-beige-201-127835",
+    "price": 27.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127836",
+    "name": "Base en polvo Artistry™ Ever Perfect™ - Bamboo 202",
+    "slug": "base-en-polvo-artistry-ever-perfect-bamboo-202-127836",
+    "price": 27.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127837",
+    "name": "Base en polvo Artistry™ Ever Perfect™ - Honey 203",
+    "slug": "base-en-polvo-artistry-ever-perfect-honey-203-127837",
+    "price": 27.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127838",
+    "name": "Base en polvo Artistry™ Ever Perfect™ - Biscotti 301",
+    "slug": "base-en-polvo-artistry-ever-perfect-biscotti-301-127838",
+    "price": 27.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127839",
+    "name": "Base en polvo Artistry™ Ever Perfect™ - Almond 302",
+    "slug": "base-en-polvo-artistry-ever-perfect-almond-302-127839",
+    "price": 27.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127840",
+    "name": "Base en polvo Artistry™ Ever Perfect™ - Chestnut 303",
+    "slug": "base-en-polvo-artistry-ever-perfect-chestnut-303-127840",
+    "price": 27.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127841",
+    "name": "Base en polvo Artistry™ Ever Perfect™ - Mocha 401",
+    "slug": "base-en-polvo-artistry-ever-perfect-mocha-401-127841",
+    "price": 27.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127842",
+    "name": "Base en polvo Artistry™ Ever Perfect™ - Nutmeg 402",
+    "slug": "base-en-polvo-artistry-ever-perfect-nutmeg-402-127842",
+    "price": 27.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127843",
+    "name": "Base en polvo Artistry™ Ever Perfect™ - Java 403",
+    "slug": "base-en-polvo-artistry-ever-perfect-java-403-127843",
+    "price": 27.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127825",
+    "name": "Corrector de sérum Artistry Future Glow™ - Fair",
+    "slug": "corrector-de-serum-artistry-future-glow-fair-127825",
+    "price": 30.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127826",
+    "name": "Corrector de sérum Artistry Future Glow™ - Light Medium",
+    "slug": "corrector-de-serum-artistry-future-glow-light-medium-127826",
+    "price": 30.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127827",
+    "name": "Corrector de sérum Artistry Future Glow™ - Light Medium",
+    "slug": "corrector-de-serum-artistry-future-glow-light-medium-127827",
+    "price": 30.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127828",
+    "name": "Corrector de sérum Artistry Future Glow™ - Medium Deep",
+    "slug": "corrector-de-serum-artistry-future-glow-medium-deep-127828",
+    "price": 30.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127829",
+    "name": "Corrector de sérum Artistry Future Glow™ - Medium Deep",
+    "slug": "corrector-de-serum-artistry-future-glow-medium-deep-127829",
+    "price": 30.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127830",
+    "name": "Corrector de sérum Artistry Future Glow™ - Deep",
+    "slug": "corrector-de-serum-artistry-future-glow-deep-127830",
+    "price": 30.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127466D",
+    "name": "Polvo fijador suelto Artistry Ever Perfect™ - Highlight",
+    "slug": "polvo-fijador-suelto-artistry-ever-perfect-highlight-127466d",
+    "price": 39.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127467D",
+    "name": "Polvo fijador suelto Artistry Ever Perfect™ - Light to Medium",
+    "slug": "polvo-fijador-suelto-artistry-ever-perfect-light-to-medium-127467d",
+    "price": 39.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127468D",
+    "name": "Polvo fijador suelto Artistry Ever Perfect™ - Medium to Deep",
+    "slug": "polvo-fijador-suelto-artistry-ever-perfect-medium-to-deep-127468d",
+    "price": 39.0,
+    "currency": "USD",
+    "brandSlug": "artistry-ever-perfect",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "126735D",
+    "name": "Polvo compacto Artistry Future Glow™",
+    "slug": "polvo-compacto-artistry-future-glow-126735d",
+    "price": 35.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127472D",
+    "name": "Rubor en crema y polvo Artistry Go Vibrant™ - Peachy Days",
+    "slug": "rubor-en-crema-y-polvo-artistry-go-vibrant-peachy-days-127472d",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127473D",
+    "name": "Rubor en crema y polvo Artistry Go Vibrant™ - Pink Spring Fling",
+    "slug": "rubor-en-crema-y-polvo-artistry-go-vibrant-pink-spring-fling-127473d",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127474D",
+    "name": "Rubor en crema y polvo Artistry Go Vibrant™ - Mauvy Night",
+    "slug": "rubor-en-crema-y-polvo-artistry-go-vibrant-mauvy-night-127474d",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "127475D",
+    "name": "Rubor en crema y polvo Artistry Go Vibrant™ - Summer Sunset",
+    "slug": "rubor-en-crema-y-polvo-artistry-go-vibrant-summer-sunset-127475d",
+    "price": 37.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "126736",
+    "name": "Cuarteto de sombras Artistry Go Vibrant™ para ojos - Golden harvest",
+    "slug": "cuarteto-de-sombras-artistry-go-vibrant-para-ojos-golden-harvest-126736",
+    "price": 39.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-eyes"
+  },
+  {
+    "sku": "126737",
+    "name": "Cuarteto de sombras Artistry Go Vibrant™ para ojos - Peach Basket",
+    "slug": "cuarteto-de-sombras-artistry-go-vibrant-para-ojos-peach-basket-126737",
+    "price": 39.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-eyes"
+  },
+  {
+    "sku": "126738",
+    "name": "Cuarteto de sombras Artistry Go Vibrant™ para ojos - Garden",
+    "slug": "cuarteto-de-sombras-artistry-go-vibrant-para-ojos-garden-126738",
+    "price": 39.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-eyes"
+  },
+  {
+    "sku": "126739",
+    "name": "Cuarteto de sombras Artistry Go Vibrant™ para ojos Stunning Skies",
+    "slug": "cuarteto-de-sombras-artistry-go-vibrant-para-ojos-stunning-skies-126739",
+    "price": 39.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-eyes"
+  },
+  {
+    "sku": "126745D",
+    "name": "Lápiz y color en gel para cejas a prueba de agua Artistry Go Vibrant™ - True Black",
+    "slug": "lapiz-y-color-en-gel-para-cejas-a-prueba-de-agua-artistry-go-vibrant-true-black-126745d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-eyes"
+  },
+  {
+    "sku": "126746D",
+    "name": "Lápiz y color en gel para cejas a prueba de agua Artistry Go Vibrant™ - Taupe",
+    "slug": "lapiz-y-color-en-gel-para-cejas-a-prueba-de-agua-artistry-go-vibrant-taupe-126746d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-eyes"
+  },
+  {
+    "sku": "126747D",
+    "name": "Lápiz y color en gel para cejas a prueba de agua Artistry Go Vibrant™ - Dark Brown",
+    "slug": "lapiz-y-color-en-gel-para-cejas-a-prueba-de-agua-artistry-go-vibrant-dark-brown-126747d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-eyes"
+  },
+  {
+    "sku": "123038D",
+    "name": "﻿Prebase de rímel Artistry Studio™",
+    "slug": "prebase-de-rimel-artistry-studio-123038d",
+    "price": 23.0,
+    "currency": "USD",
+    "brandSlug": "artistry-studio",
+    "categorySlug": "makeup-eyes"
+  },
+  {
+    "sku": "126741D",
+    "name": "Lápiz delineador de ojos a prueba de agua Artistry Go Vibrant™ - Natural Brown",
+    "slug": "lapiz-delineador-de-ojos-a-prueba-de-agua-artistry-go-vibrant-natural-brown-126741d",
+    "price": 23.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-eyes"
+  },
+  {
+    "sku": "126744D",
+    "name": "Lápiz delineador de ojos a prueba de agua Artistry Go Vibrant™ - Natural Black",
+    "slug": "lapiz-delineador-de-ojos-a-prueba-de-agua-artistry-go-vibrant-natural-black-126744d",
+    "price": 23.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-eyes"
+  },
+  {
+    "sku": "126743D",
+    "name": "Delineador líquido para ojos de larga duración Artistry Go Vibrant™",
+    "slug": "delineador-liquido-para-ojos-de-larga-duracion-artistry-go-vibrant-126743d",
+    "price": 24.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-eyes"
+  },
+  {
+    "sku": "126740D",
+    "name": "Rímel suero de longitud a prueba de agua Artistry Go Vibrant™",
+    "slug": "rimel-suero-de-longitud-a-prueba-de-agua-artistry-go-vibrant-126740d",
+    "price": 28.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-eyes"
+  },
+  {
+    "sku": "127845",
+    "name": "Rímel de volumen 3 en 1 Artistry Go Vibrant™",
+    "slug": "rimel-de-volumen-3-en-1-artistry-go-vibrant-127845",
+    "price": 28.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-eyes"
+  },
+  {
+    "sku": "124144D",
+    "name": "Lápiz labial cremoso Artistry Go Vibrant™ - Saturday Peach 101",
+    "slug": "lapiz-labial-cremoso-artistry-go-vibrant-saturday-peach-101-124144d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "124145D",
+    "name": "Lápiz labial cremoso Artistry Go Vibrant™ - Weekend Rosé 102",
+    "slug": "lapiz-labial-cremoso-artistry-go-vibrant-weekend-rose-102-124145d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "124146D",
+    "name": "Lápiz labial cremoso Artistry Go Vibrant™ - Mauvelous Morning 103",
+    "slug": "lapiz-labial-cremoso-artistry-go-vibrant-mauvelous-morning-103-124146d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "124147D",
+    "name": "Lápiz labial cremoso Artistry Go Vibrant™ - Berry Special Evening 104",
+    "slug": "lapiz-labial-cremoso-artistry-go-vibrant-berry-special-evening-104-124147d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "124149D",
+    "name": "Lápiz labial cremoso Artistry Go Vibrant™ - Secret Crush Scarlet 106",
+    "slug": "lapiz-labial-cremoso-artistry-go-vibrant-secret-crush-scarlet-106-124149d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "124150D",
+    "name": "Lápiz labial cremoso Artistry Go Vibrant™ - Take Charge Red 107",
+    "slug": "lapiz-labial-cremoso-artistry-go-vibrant-take-charge-red-107-124150d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "124151D",
+    "name": "Lápiz labial cremoso Artistry Go Vibrant™ - Text Me Terracotta 108",
+    "slug": "lapiz-labial-cremoso-artistry-go-vibrant-text-me-terracotta-108-124151d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "124152D",
+    "name": "Lápiz labial cremoso Artistry Go Vibrant™ - Spice Meets Nice 109",
+    "slug": "lapiz-labial-cremoso-artistry-go-vibrant-spice-meets-nice-109-124152d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "124153D",
+    "name": "Lápiz labial cremoso Artistry Go Vibrant™ - Crush on Coral 110",
+    "slug": "lapiz-labial-cremoso-artistry-go-vibrant-crush-on-coral-110-124153d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "124154D",
+    "name": "Lápiz labial cremoso Artistry Go Vibrant™- Go-Go Cocoa 111",
+    "slug": "lapiz-labial-cremoso-artistry-go-vibrant-go-go-cocoa-111-124154d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "124155D",
+    "name": "Lápiz labial mate Artistry Go Vibrant™ - Lunch Date Pink 201",
+    "slug": "lapiz-labial-mate-artistry-go-vibrant-lunch-date-pink-201-124155d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "124156D",
+    "name": "Lápiz labial mate Artistry Go Vibrant™ - Photobomb Fuschia 202",
+    "slug": "lapiz-labial-mate-artistry-go-vibrant-photobomb-fuschia-202-124156d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "124157D",
+    "name": "Lápiz labial mate Artistry Go Vibrant™ - Recharge Rose 203",
+    "slug": "lapiz-labial-mate-artistry-go-vibrant-recharge-rose-203-124157d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "124158D",
+    "name": "Lápiz labial mate Artistry Go Vibrant™ - Road Trip Red 204",
+    "slug": "lapiz-labial-mate-artistry-go-vibrant-road-trip-red-204-124158d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "124159D",
+    "name": "Lápiz labial mate Artistry Go Vibrant™ - Firecracker Red 205",
+    "slug": "lapiz-labial-mate-artistry-go-vibrant-firecracker-red-205-124159d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "124161D",
+    "name": "Lápiz labial mate Artistry Go Vibrant™ - Blush Crush 207",
+    "slug": "lapiz-labial-mate-artistry-go-vibrant-blush-crush-207-124161d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "124162D",
+    "name": "Lápiz labial mate Artistry Go Vibrant™ - Lazy Day Latte 208",
+    "slug": "lapiz-labial-mate-artistry-go-vibrant-lazy-day-latte-208-124162d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "124163D",
+    "name": "Lápiz labial mate Artistry Go Vibrant™ - Love Note Nude 209",
+    "slug": "lapiz-labial-mate-artistry-go-vibrant-love-note-nude-209-124163d",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "127476D",
+    "name": "Labial líquido iluminador Artistry Go Vibrant™ - Mocha Crush 201",
+    "slug": "labial-liquido-iluminador-artistry-go-vibrant-mocha-crush-201-127476d",
+    "price": 24.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "127477D",
+    "name": "Labial líquido iluminador Artistry Go Vibrant™ - Dragon Fruit De-light 202",
+    "slug": "labial-liquido-iluminador-artistry-go-vibrant-dragon-fruit-de-light-202-127477d",
+    "price": 24.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "127478D",
+    "name": "Labial líquido iluminador Artistry Go Vibrant™ - Pepper Pout 203",
+    "slug": "labial-liquido-iluminador-artistry-go-vibrant-pepper-pout-203-127478d",
+    "price": 24.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "127479D",
+    "name": "Labial líquido iluminador Artistry Go Vibrant™ - Midnight Orchid 204",
+    "slug": "labial-liquido-iluminador-artistry-go-vibrant-midnight-orchid-204-127479d",
+    "price": 24.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "127584D",
+    "name": "Labial líquido iluminador Artistry Go Vibrant™ - Blushing Merlot 206",
+    "slug": "labial-liquido-iluminador-artistry-go-vibrant-blushing-merlot-206-127584d",
+    "price": 24.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "127481D",
+    "name": "Labial líquido iluminador Artistry Go Vibrant™ - Desert Rose 102",
+    "slug": "labial-liquido-iluminador-artistry-go-vibrant-desert-rose-102-127481d",
+    "price": 24.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "127482D",
+    "name": "Labial líquido iluminador Artistry Go Vibrant™ - Kiss Me Cranberry 103",
+    "slug": "labial-liquido-iluminador-artistry-go-vibrant-kiss-me-cranberry-103-127482d",
+    "price": 24.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "127483D",
+    "name": "Labial líquido iluminador Artistry Go Vibrant™ - Choco Bean 104",
+    "slug": "labial-liquido-iluminador-artistry-go-vibrant-choco-bean-104-127483d",
+    "price": 24.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "127601D",
+    "name": "Labial líquido iluminador Artistry Go Vibrant™ - Fuchsia Bloom 105",
+    "slug": "labial-liquido-iluminador-artistry-go-vibrant-fuchsia-bloom-105-127601d",
+    "price": 24.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "127484D",
+    "name": "Labial iluminador de volumen Artistry Go Vibrant™",
+    "slug": "labial-iluminador-de-volumen-artistry-go-vibrant-127484d",
+    "price": 24.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "124674D",
+    "name": "Bálsamo labial traslúcido Artistry Go Vibrant™",
+    "slug": "balsamo-labial-traslucido-artistry-go-vibrant-124674d",
+    "price": 28.0,
+    "currency": "USD",
+    "brandSlug": "artistry-go-vibrant",
+    "categorySlug": "makeup-lips"
+  },
+  {
+    "sku": "110858",
+    "name": "﻿Juego de brochas Artistry™",
+    "slug": "juego-de-brochas-artistry-110858",
+    "price": 78.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup"
+  },
+  {
+    "sku": "319435",
+    "name": "Brocha para base Artistry Future Glow™",
+    "slug": "brocha-para-base-artistry-future-glow-319435",
+    "price": 28.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup-face"
+  },
+  {
+    "sku": "123791V",
+    "name": "Removedor + limpiador de maquillaje micelar Artistry Skin Nutrition™",
+    "slug": "removedor-limpiador-de-maquillaje-micelar-artistry-skin-nutrition-123791v",
+    "price": 35.0,
+    "currency": "USD",
+    "brandSlug": "artistry-skin-nutrition",
+    "categorySlug": "makeup"
+  },
+  {
+    "sku": "763778",
+    "name": "Esponja perfeccionadora para el maquillaje Artistry™",
+    "slug": "esponja-perfeccionadora-para-el-maquillaje-artistry-763778",
+    "price": 16.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "makeup"
+  },
+  {
+    "sku": "119630D",
+    "name": "Atomizador de esencias de perfume Artistry Flora Chic™",
+    "slug": "atomizador-de-esencias-de-perfume-artistry-flora-chic-119630d",
+    "price": 99.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "beauty"
+  },
+  {
+    "sku": "120549D",
+    "name": "Atomizador de esencias de perfume Artistry men unknown™",
+    "slug": "atomizador-de-esencias-de-perfume-artistry-men-unknown-120549d",
+    "price": 96.0,
+    "currency": "USD",
+    "brandSlug": "artistry",
+    "categorySlug": "beauty"
+  },
+  {
+    "sku": "126463",
+    "name": "Anticaspa Satinique™ - champú para el cuero cabelludo y el cabello",
+    "slug": "anticaspa-satinique-champu-para-el-cuero-cabelludo-y-el-cabello-126463",
+    "price": 15.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126464",
+    "name": "Anticaspa Satinique™ - champú para el cuero cabelludo y el cabello",
+    "slug": "anticaspa-satinique-champu-para-el-cuero-cabelludo-y-el-cabello-126464",
+    "price": 28.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126460",
+    "name": "Purificador Satinique™ - champú para el cuero cabelludo y cabello",
+    "slug": "purificador-satinique-champu-para-el-cuero-cabelludo-y-cabello-126460",
+    "price": 15.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126461",
+    "name": "Purificador Satinique™ - champú para el cuero cabelludo y cabello",
+    "slug": "purificador-satinique-champu-para-el-cuero-cabelludo-y-cabello-126461",
+    "price": 28.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126462",
+    "name": "Purificador Satinique™ - acondicionador para el cuero cabelludo y cabello",
+    "slug": "purificador-satinique-acondicionador-para-el-cuero-cabelludo-y-cabello-126462",
+    "price": 15.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126457",
+    "name": "Anticaída del cabello Satinique™ - champú",
+    "slug": "anticaida-del-cabello-satinique-champu-126457",
+    "price": 16.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126458",
+    "name": "Anticaída del cabello Satinique™ - champú",
+    "slug": "anticaida-del-cabello-satinique-champu-126458",
+    "price": 29.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126459",
+    "name": "Anticaída del cabello Satinique™ - acondicionador",
+    "slug": "anticaida-del-cabello-satinique-acondicionador-126459",
+    "price": 16.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126636",
+    "name": "Anticaída del cabello Satinique™ - acondicionador",
+    "slug": "anticaida-del-cabello-satinique-acondicionador-126636",
+    "price": 29.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126466",
+    "name": "Anticaída del cabello Satinique™ - tónico para el cuero cabelludo",
+    "slug": "anticaida-del-cabello-satinique-tonico-para-el-cuero-cabelludo-126466",
+    "price": 30.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126455",
+    "name": "2 en 1 Satinique™ - champú y acondicionador",
+    "slug": "2-en-1-satinique-champu-y-acondicionador-126455",
+    "price": 14.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126456",
+    "name": "2 en 1 Satinique™ - champú y acondicionador",
+    "slug": "2-en-1-satinique-champu-y-acondicionador-126456",
+    "price": 27.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126449",
+    "name": "Humectante suave Satinique™ - champú",
+    "slug": "humectante-suave-satinique-champu-126449",
+    "price": 15.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126450",
+    "name": "Humectante suave Satinique™ - champú",
+    "slug": "humectante-suave-satinique-champu-126450",
+    "price": 28.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126451",
+    "name": "Acondicionador Humectante Suave Satinique™",
+    "slug": "acondicionador-humectante-suave-satinique-126451",
+    "price": 15.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126634",
+    "name": "Acondicionador Humectante Suave Satinique™",
+    "slug": "acondicionador-humectante-suave-satinique-126634",
+    "price": 28.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126452",
+    "name": "Reparación intensiva Satinique™ - champú",
+    "slug": "reparacion-intensiva-satinique-champu-126452",
+    "price": 16.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126453",
+    "name": "Reparación intensiva Satinique™ - champú",
+    "slug": "reparacion-intensiva-satinique-champu-126453",
+    "price": 29.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126454",
+    "name": "Reparación intensiva Satinique™ - acondicionador",
+    "slug": "reparacion-intensiva-satinique-acondicionador-126454",
+    "price": 16.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126635",
+    "name": "Reparación intensiva Satinique™ - acondicionador",
+    "slug": "reparacion-intensiva-satinique-acondicionador-126635",
+    "price": 29.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126465",
+    "name": "Reparación intensiva Satinique™ - tratamiento capilar",
+    "slug": "reparacion-intensiva-satinique-tratamiento-capilar-126465",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126467",
+    "name": "Reparación intensiva Satinique™ - suero de aceite para el cabello",
+    "slug": "reparacion-intensiva-satinique-suero-de-aceite-para-el-cabello-126467",
+    "price": 29.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "126468",
+    "name": "Reparación intensiva Satinique™ - loción para el cabello",
+    "slug": "reparacion-intensiva-satinique-locion-para-el-cabello-126468",
+    "price": 22.0,
+    "currency": "USD",
+    "brandSlug": "satinique",
+    "categorySlug": "hair"
+  },
+  {
+    "sku": "125915",
+    "name": "Baño corporal exfoliante g&h™ Refresh",
+    "slug": "bano-corporal-exfoliante-g-h-refresh-125915",
+    "price": 29.0,
+    "currency": "USD",
+    "brandSlug": "g-and-h",
+    "categorySlug": "body"
+  },
+  {
+    "sku": "125892",
+    "name": "Baño corporal exfoliante g&h™ Refresh",
+    "slug": "bano-corporal-exfoliante-g-h-refresh-125892",
+    "price": 14.5,
+    "currency": "USD",
+    "brandSlug": "g-and-h",
+    "categorySlug": "body"
+  },
+  {
+    "sku": "125893",
+    "name": "Loción rica para el cuerpo g&h™ Refresh",
+    "slug": "locion-rica-para-el-cuerpo-g-h-refresh-125893",
+    "price": 15.75,
+    "currency": "USD",
+    "brandSlug": "g-and-h",
+    "categorySlug": "body"
+  },
+  {
+    "sku": "125902",
+    "name": "Crema para manos g&h™ Nourish",
+    "slug": "crema-para-manos-g-h-nourish-125902",
+    "price": 15.0,
+    "currency": "USD",
+    "brandSlug": "g-and-h",
+    "categorySlug": "body"
+  },
+  {
+    "sku": "125914",
+    "name": "Jabón corporal g&h™ Nourish",
+    "slug": "jabon-corporal-g-h-nourish-125914",
+    "price": 29.0,
+    "currency": "USD",
+    "brandSlug": "g-and-h",
+    "categorySlug": "body"
+  },
+  {
+    "sku": "125890",
+    "name": "Jabón corporal g&h™ Nourish",
+    "slug": "jabon-corporal-g-h-nourish-125890",
+    "price": 14.5,
+    "currency": "USD",
+    "brandSlug": "g-and-h",
+    "categorySlug": "body"
+  },
+  {
+    "sku": "125891",
+    "name": "Loción para el cuerpo g&h™ Nourish",
+    "slug": "locion-para-el-cuerpo-g-h-nourish-125891",
+    "price": 15.75,
+    "currency": "USD",
+    "brandSlug": "g-and-h",
+    "categorySlug": "body"
+  },
+  {
+    "sku": "126308",
+    "name": "Champú + Baño corporal g&h™ Baby",
+    "slug": "champu-bano-corporal-g-h-baby-126308",
+    "price": 15.5,
+    "currency": "USD",
+    "brandSlug": "g-and-h-baby",
+    "categorySlug": "body"
+  },
+  {
+    "sku": "126309",
+    "name": "Loción g&h™ Baby",
+    "slug": "locion-g-h-baby-126309",
+    "price": 15.5,
+    "currency": "USD",
+    "brandSlug": "g-and-h-baby",
+    "categorySlug": "body"
+  },
+  {
+    "sku": "127877",
+    "name": "Desodorante antitranspirante a bolilla g&h™ Protect",
+    "slug": "desodorante-antitranspirante-a-bolilla-g-h-protect-127877",
+    "price": 10.75,
+    "currency": "USD",
+    "brandSlug": "g-and-h",
+    "categorySlug": "body"
+  },
+  {
+    "sku": "126855",
+    "name": "Desinfectante de manos g&h™ Protect",
+    "slug": "desinfectante-de-manos-g-h-protect-126855",
+    "price": 13.0,
+    "currency": "USD",
+    "brandSlug": "g-and-h",
+    "categorySlug": "body"
+  },
+  {
+    "sku": "321108",
+    "name": "Desodorante libre de aluminio g&h™ Protect",
+    "slug": "desodorante-libre-de-aluminio-g-h-protect-321108",
+    "price": 12.5,
+    "currency": "USD",
+    "brandSlug": "g-and-h",
+    "categorySlug": "body"
+  },
+  {
+    "sku": "125894",
+    "name": "Jabón concentrado para manos g&h™ Protect",
+    "slug": "jabon-concentrado-para-manos-g-h-protect-125894",
+    "price": 9.5,
+    "currency": "USD",
+    "brandSlug": "g-and-h",
+    "categorySlug": "body"
+  },
+  {
+    "sku": "125897",
+    "name": "Barra de jabón g&h™ Protect",
+    "slug": "barra-de-jabon-g-h-protect-125897",
+    "price": 29.0,
+    "currency": "USD",
+    "brandSlug": "g-and-h",
+    "categorySlug": "body"
+  },
+  {
+    "sku": "125901",
+    "name": "Loción para el cuerpo SPF 50",
+    "slug": "locion-para-el-cuerpo-spf-50-125901",
+    "price": 28.0,
+    "currency": "USD",
+    "brandSlug": "other",
+    "categorySlug": "other"
+  },
+  {
+    "sku": "127705",
+    "name": "Cepillo de dientes eléctrico de acción múltiple Glister™",
+    "slug": "cepillo-de-dientes-electrico-de-accion-multiple-glister-127705",
+    "price": 175.0,
+    "currency": "USD",
+    "brandSlug": "glister",
+    "categorySlug": "oral-care"
+  },
+  {
+    "sku": "127706",
+    "name": "Cabezales de repuesto para cepillo de dientes eléctrico de acción múltiple Glister™",
+    "slug": "cabezales-de-repuesto-para-cepillo-de-dientes-electrico-de-accion-multiple-glister-127706",
+    "price": 36.0,
+    "currency": "USD",
+    "brandSlug": "glister",
+    "categorySlug": "oral-care"
+  },
+  {
+    "sku": "124106",
+    "name": "Pasta dental de acción múltiple Glister™",
+    "slug": "pasta-dental-de-accion-multiple-glister-124106",
+    "price": 7.25,
+    "currency": "USD",
+    "brandSlug": "glister",
+    "categorySlug": "oral-care"
+  },
+  {
+    "sku": "126001",
+    "name": "Pasta dental de acción múltiple Glister™ - Tamaño de viaje",
+    "slug": "pasta-dental-de-accion-multiple-glister-tamano-de-viaje-126001",
+    "price": 21.0,
+    "currency": "USD",
+    "brandSlug": "glister",
+    "categorySlug": "oral-care"
+  },
+  {
+    "sku": "124112",
+    "name": "Hilo dental de acción múltiple Glister™",
+    "slug": "hilo-dental-de-accion-multiple-glister-124112",
+    "price": 12.5,
+    "currency": "USD",
+    "brandSlug": "glister",
+    "categorySlug": "oral-care"
+  },
+  {
+    "sku": "124108",
+    "name": "Enjuague bucal de acción múltiple Glister™ concentrado",
+    "slug": "enjuague-bucal-de-accion-multiple-glister-concentrado-124108",
+    "price": 14.0,
+    "currency": "USD",
+    "brandSlug": "glister",
+    "categorySlug": "oral-care"
+  },
+  {
+    "sku": "124111",
+    "name": "Refrescante bucal en spray Glister™ menta",
+    "slug": "refrescante-bucal-en-spray-glister-menta-124111",
+    "price": 7.25,
+    "currency": "USD",
+    "brandSlug": "glister",
+    "categorySlug": "oral-care"
+  },
+  {
+    "sku": "122940",
+    "name": "Unidad eSpring™ para encima del mesón de cocina con desviador",
+    "slug": "unidad-espring-para-encima-del-meson-de-cocina-con-desviador-122940",
+    "price": 1299.0,
+    "currency": "USD",
+    "brandSlug": "espring",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "122941",
+    "name": "Unidad eSpring™ para debajo del mesón de cocina con grifo auxiliar",
+    "slug": "unidad-espring-para-debajo-del-meson-de-cocina-con-grifo-auxiliar-122941",
+    "price": 1299.0,
+    "currency": "USD",
+    "brandSlug": "espring",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "122943",
+    "name": "Filtro de carbón e3 eSpring™",
+    "slug": "filtro-de-carbon-e3-espring-122943",
+    "price": 254.0,
+    "currency": "USD",
+    "brandSlug": "espring",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "120539",
+    "name": "Sistema de tratamiento de aire Atmosphere Sky™",
+    "slug": "sistema-de-tratamiento-de-aire-atmosphere-sky-120539",
+    "price": 1710.0,
+    "currency": "USD",
+    "brandSlug": "atmosphere-sky",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "124746",
+    "name": "Sistema de tratamiento de aire Atmosphere Mini™",
+    "slug": "sistema-de-tratamiento-de-aire-atmosphere-mini-124746",
+    "price": 910.0,
+    "currency": "USD",
+    "brandSlug": "atmosphere-sky",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "120540",
+    "name": "Filtro HEPA de reemplazo para Atmosphere Sky™",
+    "slug": "filtro-hepa-de-reemplazo-para-atmosphere-sky-120540",
+    "price": 192.0,
+    "currency": "USD",
+    "brandSlug": "atmosphere-sky",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "120541",
+    "name": "Filtro de carbón activado (olor) de reemplazo Atmosphere Sky™",
+    "slug": "filtro-de-carbon-activado-olor-de-reemplazo-atmosphere-sky-120541",
+    "price": 140.0,
+    "currency": "USD",
+    "brandSlug": "atmosphere-sky",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "123322",
+    "name": "Filtro de reemplazo Atmosphere Mini™",
+    "slug": "filtro-de-reemplazo-atmosphere-mini-123322",
+    "price": 180.0,
+    "currency": "USD",
+    "brandSlug": "atmosphere-sky",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "101078",
+    "name": "Filtro HEPA de reemplazo para Atmosphere™",
+    "slug": "filtro-hepa-de-reemplazo-para-atmosphere-101078",
+    "price": 165.0,
+    "currency": "USD",
+    "brandSlug": "atmosphere-sky",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "118040",
+    "name": "Filtro de carbón activado (olor) de reemplazo Atmosphere™",
+    "slug": "filtro-de-carbon-activado-olor-de-reemplazo-atmosphere-118040",
+    "price": 116.0,
+    "currency": "USD",
+    "brandSlug": "atmosphere-sky",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "120231",
+    "name": "﻿Colección iCook™ de 19 piezas﻿",
+    "slug": "coleccion-icook-de-19-piezas-120231",
+    "price": 1536.0,
+    "currency": "USD",
+    "brandSlug": "icook",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "101084",
+    "name": "Juego de sartenes para saltear iCook™ de 5 piezas",
+    "slug": "juego-de-sartenes-para-saltear-icook-de-5-piezas-101084",
+    "price": 469.0,
+    "currency": "USD",
+    "brandSlug": "icook",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "101082",
+    "name": "Juego de cacerolas iCook™ de 4 piezas",
+    "slug": "juego-de-cacerolas-icook-de-4-piezas-101082",
+    "price": 309.0,
+    "currency": "USD",
+    "brandSlug": "icook",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "124694",
+    "name": "Sartén antiadherente con tapa para freír iCook™ de 9.5 pulgadas",
+    "slug": "sarten-antiadherente-con-tapa-para-freir-icook-de-9-5-pulgadas-124694",
+    "price": 229.0,
+    "currency": "USD",
+    "brandSlug": "icook",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "124695",
+    "name": "Sartén antiadherente con tapa para freír iCook™ de 11 pulgadas",
+    "slug": "sarten-antiadherente-con-tapa-para-freir-icook-de-11-pulgadas-124695",
+    "price": 279.0,
+    "currency": "USD",
+    "brandSlug": "icook",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "102709",
+    "name": "Juego de cuchillos iCook™ de 5 Piezas",
+    "slug": "juego-de-cuchillos-icook-de-5-piezas-102709",
+    "price": 519.0,
+    "currency": "USD",
+    "brandSlug": "icook",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "102715",
+    "name": "Tijeras multiusos iCook™",
+    "slug": "tijeras-multiusos-icook-102715",
+    "price": 69.0,
+    "currency": "USD",
+    "brandSlug": "icook",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "E3878",
+    "name": "Limpiador desinfectante concentrado Pursue™",
+    "slug": "limpiador-desinfectante-concentrado-pursue-e3878",
+    "price": 18.0,
+    "currency": "USD",
+    "brandSlug": "amway-home",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "E0023",
+    "name": "Desodorante desinfectante en aerosol Pursue™",
+    "slug": "desodorante-desinfectante-en-aerosol-pursue-e0023",
+    "price": 13.0,
+    "currency": "USD",
+    "brandSlug": "amway-home",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "109867",
+    "name": "Tabletas para lavavajillas automático Amway Home™",
+    "slug": "tabletas-para-lavavajillas-automatico-amway-home-109867",
+    "price": 26.0,
+    "currency": "USD",
+    "brandSlug": "amway-home",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "110490",
+    "name": "Almohadillas para restregar Scrub Buds™ de Amway Home™",
+    "slug": "almohadillas-para-restregar-scrub-buds-de-amway-home-110490",
+    "price": 7.0,
+    "currency": "USD",
+    "brandSlug": "amway-home",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "107890",
+    "name": "Botella dispensadora Dish Drops™ de Amway Home™",
+    "slug": "botella-dispensadora-dish-drops-de-amway-home-107890",
+    "price": 7.75,
+    "currency": "USD",
+    "brandSlug": "amway-home",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "E0001",
+    "name": "Limpiador multiusos L.O.C.™ de Amway Home™",
+    "slug": "limpiador-multiusos-l-o-c-de-amway-home-e0001",
+    "price": 12.5,
+    "currency": "USD",
+    "brandSlug": "amway-home",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "112536",
+    "name": "Limpiador para la cocina Amway Home™",
+    "slug": "limpiador-para-la-cocina-amway-home-112536",
+    "price": 17.0,
+    "currency": "USD",
+    "brandSlug": "amway-home",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "112546",
+    "name": "Limpiador para el baño Amway Home™",
+    "slug": "limpiador-para-el-bano-amway-home-112546",
+    "price": 17.0,
+    "currency": "USD",
+    "brandSlug": "amway-home",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "112537",
+    "name": "Limpiador para vidrios Amway Home™",
+    "slug": "limpiador-para-vidrios-amway-home-112537",
+    "price": 17.0,
+    "currency": "USD",
+    "brandSlug": "amway-home",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "110485",
+    "name": "Toallitas multiusos L.O.C.™ de Amway Home™",
+    "slug": "toallitas-multiusos-l-o-c-de-amway-home-110485",
+    "price": 15.25,
+    "currency": "USD",
+    "brandSlug": "amway-home",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "116798",
+    "name": "Botella rociadora Amway Home™",
+    "slug": "botella-rociadora-amway-home-116798",
+    "price": 6.5,
+    "currency": "USD",
+    "brandSlug": "amway-home",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "110478",
+    "name": "Detergente Líquido SA8™ d e Amway Home™",
+    "slug": "detergente-liquido-sa8-d-e-amway-home-110478",
+    "price": 53.0,
+    "currency": "USD",
+    "brandSlug": "amway-home",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "109849",
+    "name": "Detergente en polvo SA8™ de Amway Home™",
+    "slug": "detergente-en-polvo-sa8-de-amway-home-109849",
+    "price": 53.0,
+    "currency": "USD",
+    "brandSlug": "amway-home",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "124485",
+    "name": "Blanqueador para todo tipo de telas Amway Home™",
+    "slug": "blanqueador-para-todo-tipo-de-telas-amway-home-124485",
+    "price": 17.5,
+    "currency": "USD",
+    "brandSlug": "amway-home",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "110480",
+    "name": "Suavizante de telas Amway Home™ - Aroma floral",
+    "slug": "suavizante-de-telas-amway-home-aroma-floral-110480",
+    "price": 14.0,
+    "currency": "USD",
+    "brandSlug": "amway-home",
+    "categorySlug": "home"
+  },
+  {
+    "sku": "110403",
+    "name": "Rociador prelavado Amway Home™",
+    "slug": "rociador-prelavado-amway-home-110403",
+    "price": 18.5,
+    "currency": "USD",
+    "brandSlug": "amway-home",
+    "categorySlug": "home"
+  }
+]
